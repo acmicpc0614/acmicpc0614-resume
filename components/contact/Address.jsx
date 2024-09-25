@@ -19,10 +19,10 @@ const Address = () => {
         <>
           <p>
             <a
-              href="mailto:pleasebugmenot.dev@gmail.com"
+              href="mailto:eugenegarrett.dev0614@gmail.com"
               className="text-gray-lite text-lg dark:text-[#A6A6A6] "
             >
-              pleasebugmenot.dev
+              Eugene&nbsp;Garrett
             </a>
           </p>
         </>
